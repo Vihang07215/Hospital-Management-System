@@ -1,0 +1,37 @@
+{
+"name": "Hospital Management System",
+"version": "1.0.0",
+"main": "app.js",
+"description": "ApexBooking Health is a Doctor Appointment Booking App.",
+"homepage": "",
+"license": "",
+"author": "","keywords": [],
+"scripts": {
+
+"start": "node app.js",
+"dev": "nodemon app.js"
+},
+"dependencies": {
+"url": "",
+"url": "",
+"url": "",
+"url": "",
+"url": "",
+"url": "",
+"url": "",
+"url": "",
+"url": "",
+"url": "",
+"bcryptjs": "^2.4.3"
+},
+"bugs": {
+
+"url": "",
+"email": ""
+},
+"repository": {
+
+"type": "",
+"url": ""
+}
+}
